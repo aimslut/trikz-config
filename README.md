@@ -11,7 +11,8 @@
 5. Done! B)
 
 ## Custom textures
-- gloves_girl - pink gloves
+- hands_tf2 - tf2 hands/gloves
 - hud_tele_sakura - customised tele hud
-- sound_bones - bones footstep sounds from quake live
+- sound_boner - bones footstep sounds from quake live
 - w_flashbang_recolor - custom flashbang color ( pink, editable rgb in the .vmt file )
+- w_knife_cutekarambit - karambit w/ custom texture
