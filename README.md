@@ -10,6 +10,12 @@
    - `steamapps/common/Counter-Strike Source/cstrike`
 5. Done! B)
 
+## _trikz.bat
+starts rawinput2, then css for m_rawinput 2 ( from momentum mod )
+( change rawinput2.exe location in the .bat file )
+- provides mouse input that better lines up with the tickrate without having to use a specific framerate
+- https://github.com/Haze1337/RawInput2
+
 ## Custom textures
 - hands_tf2 - tf2 hands/gloves
 - hud_tele_sakura - customised tele hud
