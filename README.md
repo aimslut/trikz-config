@@ -10,12 +10,6 @@
    - `steamapps/common/Counter-Strike Source/cstrike/custom`
 5. Done! B)
 
-## _trikz.exe
-- bhopAPE clientside jump prediction
-- provides mouse input that better lines up with the tickrate without having to use a specific framerate
-- automatically starts css and injects
-- [trikz.exe](https://github.com/rtldg/RawInput2BunnyhopAPE)
-
 ## Custom textures
 - hands_tf2 - tf2 hands/gloves
 - hud_tele_sakura - customised tele hud
