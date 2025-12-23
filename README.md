@@ -12,8 +12,26 @@
 
 ## Custom textures
 - hands_tf2 - tf2 hands/gloves
-- hud_rosegarden - customised hud with trikz menu bound to team select
+- hud_rosegarden - customised hud with trikz menu bound to `chooseteam` ( with hotkeys )
 - sound_bones - bones footstep sounds from quake live
 - w_flashbang_recolor - custom flashbang color ( pink, editable rgb in the .vmt file )
 - low_poly - low poly weapon models
 - black-bg - black menu background
+
+## Chooseteam hotkeys
+hud_rosegarden has a menu on the `chooseteam` bind ( m as default ), it also has hotkey shortcuts:
+key   | action
+------|----------
+space | play
+1     | gammalow
+2     | gammamed
+3     | gammahigh
+6     | spec
+0     | cancel
+p     | partner
+h     | hide
+m     | modellag
+t     | trigger
+c     | clips
+k     | keys
+v     | vm
